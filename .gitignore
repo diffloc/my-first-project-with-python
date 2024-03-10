@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/My First Project with Python/*
+!/My First Project with Python/task/
+/My First Project with Python/task/*
+!/My First Project with Python/task/calculator.py
+!/My First Project with Python/task/products.csv
